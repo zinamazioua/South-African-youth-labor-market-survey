@@ -1,4 +1,5 @@
 ***Dataset Description:***
+
 The dataset is collected from four rounds of a South African youth labor market
 survey. Each row represents a unique individual and includes demographic, educational, and
 labor market data captured during a baseline survey. **The task is to predict the employment
@@ -42,6 +43,8 @@ status (Target) one year later using this baseline data**
 
 **Sa_citizen**: South African citizen (1 = Yes, 0 = No)
 
-Birthyear Year of birth
-Birthmonth Month of birth
-Target Employed at follow-up (1 = Yes, 0 = No)
+**Birthyear**: Year of birth
+
+**Birthmonth**: Month of birth
+
+**Target**: Employed at follow-up (1 = Yes, 0 = No)
